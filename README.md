@@ -1,9 +1,5 @@
 # Anomaly Detection Platform
 
-<div align="center">
-  <img src="images/preview.jpeg" alt="Anomaly Detection Platform Preview" width="100%">
-</div>
-
 ## Overview
 The Market Anomaly Detection Platform is a web app designed to help users detect and analyze anomalies in time-series data. It's built with a user-friendly interface and powerful tools for data scientists and analysts. The platform currently includes 225 trained models, with 117 actively used in production. These models are built using 9 different ML algorithms across 25 detection strategies to provide reliable anomaly detection for various data patterns.
 
